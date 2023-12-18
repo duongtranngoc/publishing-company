@@ -1,1 +1,2 @@
-# publishing-company
+- Clone the publishing company website on [colorlib](https://preview.colorlib.com/#publishingcompany).
+- Deploy at [Publishing Company](https://duongtranngoc.github.io/publishing-company/).
